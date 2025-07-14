@@ -1,0 +1,92 @@
+🏠 Homepage
+Default Language: Hindi
+
+Language Toggle: Google Translate widget to switch to English
+
+Persistent Preference: Cookie or IP-based language memory
+
+Main CTAs:
+
+Start Learning
+
+Explore Tools
+
+Learn & Earn with AI
+
+Simple Layout: Clean, bilingual, mobile-first
+
+📘 Learn AI Without Coding
+Curated Course Section:
+
+Free YouTube, NPTEL, Skill India courses (mostly English; subtitles auto-translated to Hindi)
+
+Optional Kumaoni/Garhwali audio for select content
+
+How-to Guides:
+
+Use ChatGPT for writing, Canva AI for posters, etc.
+
+Presented as cards linking to dedicated pages
+
+Tool Explainers (combined with toolbox):
+
+Cards for ChatGPT, Canva AI, DALL·E, Remove.bg, etc.
+
+Buttons: (1) Visit Tool, (2) View Guide (visual walkthrough with arrows)
+
+💼 Earn with AI
+Micro-Job Board: Post/find gigs like social content, voiceovers, translations
+
+Tips: How to use Copy.ai, Canva, etc., for freelancing
+
+Opportunities: Create monetizable content (YouTube Shorts, Reels, AI art)
+
+Career Help: Resume building + links to Upwork, Naukri, Freelancer
+
+🌱 Local AI Innovation Showcase
+Story Highlights: Local farmers, students, artisans using AI
+
+User Submissions: Upload short videos/images via form
+
+Gallery Section: Embed hill stories, YouTube links
+
+Impact Points: Use of AI in tourism, agriculture, education
+
+💬 Live Support / WhatsApp Help
+Chatbot Section: Open-source LLM like OpenChatKit embedded
+
+WhatsApp Button: Click-to-chat with support (with Kumaoni-style icon)
+
+📚 Resource Center
+PDFs, presentation decks, and videos from AI workshops
+
+List government schemes & startup support (linked bullets with short descriptions)
+
+🤝 Partners
+UCOST, Sridev Suman University, Uttarakhand Higher Education, Internshala
+
+Partner Logos: Clickable, linking to their websites
+
+Displayed in a clean, icon-based grid
+
+🧰 Tech Setup for Framer (Design Direction)
+No-Code Stack: Framer with linkouts and internal pages
+
+Layout: Card-based sections, minimal UI, clear CTA buttons
+
+Multilingual UI: Embed Google Translate widget or Framer-supported toggle
+
+Integrations (via embeds/iframes/buttons):
+
+YouTube
+
+WhatsApp API
+
+External AI tools
+
+Assets: Use icons, screen annotations, or infographics in how-to sections
+
+Responsiveness: Mobile-first, lightweight pages for low-bandwidth regions
+
+Analytics: Embed Google Analytics + feedback form
+
